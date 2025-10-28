@@ -5,6 +5,7 @@
 <br>
 <br>
 <h2>インストール方法</h2>
+
 ```sh
 brew install yomi-ru/dote/dote
 ```
