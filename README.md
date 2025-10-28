@@ -8,4 +8,5 @@
 
 ```sh
 brew install yomi-ru/dote/dote
+dote
 ```
